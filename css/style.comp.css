@@ -411,7 +411,7 @@ body {
     .nav > :last-child {
       grid-row: 2 / 3;
       grid-column: 3 / 4; } }
-  @media only screen and (max-width: 50em) and (min-width: 37.5em) {
+  @media only screen and (max-width: 50em) and (min-width: 37.5em), only screen and (max-width: 78.75em) and (min-width: 37.5em), only screen and (max-width: 59em) and (min-width: 37.5em) {
     .nav > :nth-last-child(2) {
       grid-row: 2 / 3;
       grid-column: 2 / 3; }
