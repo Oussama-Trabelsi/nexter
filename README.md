@@ -1,6 +1,6 @@
 # Nexter: A CSS Grid layout Project
 
-This project was built following the [Jonas Schmedtmann's Advanced CSS and Sass course.](https://www.udemy.com/advanced-css-and-sass/ 'Udemy | Advanced CSS and Sass: Flexbox, Grid, Animations and More!') The main goal of this project was to create a responsive landing page using **CSS Grid layout**, following the BEM methodology for organizing and naming CSS classes
+This project was built following the [Jonas Schmedtmann's Advanced CSS and Sass course.](https://www.udemy.com/advanced-css-and-sass/ 'Udemy | Advanced CSS and Sass: Flexbox, Grid, Animations and More!') The main goal of this project was to create a responsive landing page using **CSS Grid layout**, following the BEM methodology for organizing and naming CSS classes.
 
 View project live at [oussama-tr.github.io/nexter](https://oussama-tr.github.io/nexter/).
 
@@ -68,9 +68,20 @@ CSS Grid, like Flexbox, allows us to very easily make changes in a website layou
 }
 ```
 
-|           Desktop Screens           |          Tablet & Mobile Screens          |
+
+
+|           Desktop Screens           | 
+| :---------------------------------: | 
+| ![](img/readme/desktop-screens.png) | 
+
+<div align="center">
+
+|           Tablet Screens            |          Mobile Screens                   |
 | :---------------------------------: | :---------------------------------------: |
-| ![](img/readme/desktop-screens.png) | ![](img/readme/tablet-mobile-screens.png) |
+| [img/readme/tablet-screens.png](https://github.com/oussama-tr/nexter/blob/master/img/readme/tablet-screens.png)  | [img/readme/mobile-screens.png](https://github.com/oussama-tr/nexter/blob/master/img/readme/mobile-screens.png)  |
+
+</div>
+
 
 ## NPM Scripts
 
